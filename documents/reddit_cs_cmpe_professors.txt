@@ -1,0 +1,25 @@
+Source: https://www.reddit.com/r/SJSU/comments/3y07b8/how_are_the_cscmpe_professors_at_sjsu/
+Source Type: Reddit Thread
+School: San Jose State University
+Topic: CS/CMPE professor experiences
+
+Content:
+Post/Comment 1:
+Author: Original poster
+Text: A student considering transferring to SJSU for CS, SE, or CMPE asked why many CMPE professors had low Rate My Professors ratings and wanted opinions about teacher quality and instruction.
+
+Post/Comment 2:
+Author: Reddit user
+Text: One commenter said the experience depends on the type of student. They argued that CMPE professors may not guide students every step of the way unless students seek help, and that online ratings often come from students who expect to pass by only attending.
+
+Post/Comment 3:
+Author: Reddit user
+Text: The same commenter said professors may be weak during lecture but can be very helpful during office hours. They emphasized that students sometimes need outside resources, online help, or smart friends when a professor is hard to understand.
+
+Post/Comment 4:
+Author: Reddit user
+Text: Another commenter said students should take professor ratings with a grain of salt because some low ratings come from students who performed poorly.
+
+Post/Comment 5:
+Author: Reddit user
+Text: A commenter said CS requires a lot of self-learning. They felt the professors were generally alright but said students in CS should expect to teach themselves material at times.

@@ -1,0 +1,27 @@
+Source: https://www.reddit.com/r/SJSU/comments/1om1mr4/any_input_on_cs_149_professors/
+Source Type: Reddit Thread
+School: San Jose State University
+Topic: CS149 professor discussion
+Relevant Courses: CS149
+Relevant Professors: William Andreopoulos, Faramarz Mortezaie
+
+Content:
+Post/Comment 1:
+Author: Original poster
+Text: A student asked for input on CS149 professors, specifically William Andreopoulos and Faramarz Mortezaie.
+
+Post/Comment 2:
+Author: Reddit user
+Text: One commenter recommended Andreopoulos for CS149.
+
+Post/Comment 3:
+Author: Reddit user
+Text: A student said Andreopoulos allows students to work on homework with a partner, so choosing a reliable partner matters. The commenter said exams are not weighted heavily and that much of the grade weight is on homework. They said doing Zybooks homework and reviewing lecture slides could make the course manageable.
+
+Post/Comment 4:
+Author: Reddit user
+Text: Another student liked Mortezaie and described him as chill, easy to talk to, and lenient when students communicate with him. They said lectures could sometimes be unclear, but he tried to explain concepts with analogies. They also described the textbook as easy and straightforward.
+
+Post/Comment 5:
+Author: Reddit user
+Text: The thread suggests that for CS149, Andreopoulos may be a good choice for students who want homework-heavy grading and partner work, while Mortezaie may appeal to students who value a lenient and approachable professor.

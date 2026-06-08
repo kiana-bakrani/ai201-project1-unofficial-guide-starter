@@ -1,0 +1,25 @@
+Source: https://www.reddit.com/r/SJSU/comments/h7ck1x/cs_department/
+Source Type: Reddit Thread
+School: San Jose State University
+Topic: SJSU CS department student opinions
+
+Content:
+Post/Comment 1:
+Author: Reddit user
+Text: One student described the SJSU CS experience as good overall, but emphasized that students need to actively seek resources, plan for careers, attend career fairs, practice resumes, and apply broadly for internships.
+
+Post/Comment 2:
+Author: Reddit user
+Text: The thread mentions that SJSU CS students can use many resources, including tutoring centers, CS tutoring, organized review sessions, machine learning club, robotics club, coding interview preparation groups, women-in-CS groups, hackathons, engineering competitions, and career fairs.
+
+Post/Comment 3:
+Author: Reddit user
+Text: One commenter said the SJSU CS department has good and bad professors. They said students will encounter both very difficult and very easy professors, but most professors will work with students. The commenter felt that for the tuition price, SJSU was a good value.
+
+Post/Comment 4:
+Author: Reddit user
+Text: Another commenter said some CS professors are awesome people and spoke positively about the department from a software engineering perspective.
+
+Post/Comment 5:
+Author: Reddit user
+Text: A commenter said there are research opportunities for CS undergraduates at SJSU, including cybersecurity, machine learning, bioinformatics, and engineering projects. They also mentioned opportunities for undergraduates to work as tutors, graders, or teaching assistants.

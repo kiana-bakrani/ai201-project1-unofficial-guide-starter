@@ -1,0 +1,37 @@
+Source: https://www.ratemyprofessors.com/professor/1969051
+Source Type: Rate My Professors
+School: San Jose State University
+Department: Computer Science
+Professor: Dominic Abucejo
+Relevant Courses: CS160, CS courses
+
+Content:
+Review 1:
+Course: CS160
+Rating: 3.0
+Difficulty: 1.0
+Text: Easy class, though the professor does the absolute minimum for his job. He reads off slides, his homework is just questions from the book, and he literally didn't grade like anything throughout the semester. In fact, he's still grading assignments after the first due date professors were supposed to input student grades and still isnt done.
+
+Review 2:
+Course: CS160
+Rating: 5.0
+Difficulty: 1.0
+Text: VERY SWE-relevant content. Short HW once every 2 weeks. Optional attendance besides a quiz every 2 weeks, which are non-lockdown. Just read his slides + skim the textbook. No midterms. Final was very easy, 95% MCQ. Main thing is the class project (basically build a full stack website), which sucks if your randomly assigned teammates are bots.
+
+Review 3:
+Course: CS160
+Rating: 2.0
+Difficulty: 3.0
+Text: Lectures are useless and no one attends them, there is a final even though there is a large project, and quizzes effectively only contain fun facts from the textbook so everyone cheats. I'd give a 1 if it wasn't for the fact that the non-project assignments are always given 100% so you can put junk into them
+
+Review 4:
+Course: CS160
+Rating: 5.0
+Difficulty: 3.0
+Text: A pretty chill class. Only one project throughout the entire semester.
+
+Review 5:
+Course: CS160
+Rating: 2.0
+Difficulty: 3.0
+Text: chill guy lectures/hw easy, but his 2nd job takes up his time, so the course was very unstructured. would drop assignments at the very last minute. class isn't supposed to have a final exam but the timeline was so messed up we took our 2nd midterm THE WEEK BEFORE FINALS. class average was a 69. final submission reqs were revealed 2 days before due.

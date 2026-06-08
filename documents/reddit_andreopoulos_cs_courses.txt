@@ -1,0 +1,26 @@
+Source: https://www.reddit.com/r/SJSU/comments/ga4xn1/william_andreopoulos_for_cs_courses_reviews/
+Source Type: Reddit Thread
+School: San Jose State University
+Topic: William Andreopoulos CS course reviews
+Relevant Courses: CS147, CS149
+
+Content:
+Post/Comment 1:
+Author: Original poster
+Text: A student asked for opinions on William Andreopoulos for CS courses, especially CS147 and CS149, because registration was coming up and there were not many reviews available.
+
+Post/Comment 2:
+Author: Reddit user
+Text: One student taking CS149 with William Andreopoulos described him as a decent and flexible professor. The student said he often extended assignment deadlines when students were struggling and that assignments and projects felt fair. The grading breakdown mentioned assignments/projects, worksheets, two midterms, a final, and iClicker participation.
+
+Post/Comment 3:
+Author: Reddit user
+Text: Another student said Andreopoulos was a strong option for CS149 compared with other professors. They described the grading as fair and said he extended deadlines when the class had trouble with assignments.
+
+Post/Comment 4:
+Author: Reddit user
+Text: A student comparing CS149 options said Andreopoulos seemed preferable to Patra. The discussion focused on workload, exam weight, projects, and whether the grading structure made the course manageable.
+
+Post/Comment 5:
+Author: Reddit user
+Text: Overall, the thread suggests Andreopoulos is considered flexible and fair for CS149, with some students emphasizing that deadlines, assignments, and projects are manageable if students keep up with the work.

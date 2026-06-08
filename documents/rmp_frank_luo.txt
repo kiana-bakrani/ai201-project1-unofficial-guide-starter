@@ -1,0 +1,31 @@
+Source: https://www.ratemyprofessors.com/professor/3138953
+Source Type: Rate My Professors
+School: San Jose State University
+Department: Computer Science
+Professor: Frank Luo
+Relevant Courses: CS157A, CS courses
+
+Content:
+Review 1:
+Course: CS157A
+Rating: 4.0
+Difficulty: 2.0
+Text: He's worked in the industry for years and it shows. He doesn't just read off slides; he explains how things actually work in the real world. Would take again.
+
+Review 2:
+Course: CS157A
+Rating: 3.0
+Difficulty: 3.0
+Text: CS46B: Very thick accent that is difficult to understand but is knowledgeable and easy to reach out to. Canvas not structured as well but might better for future semesters. Lots of quizzes throughout the semester but had a policy where you were guaranteed a B+ if you could solve a challenge question. Decent DSA professor, listens to feedback
+
+Review 3:
+Course: CS157A
+Rating: 1.0
+Difficulty: 5.0
+Text: He has really thick accent and his lectures are hard to understand. Canvas is messy and hard to navigate. There is 1 midterm and 1 final for this class and both of them are really hard. He has a good personality but I would say just avoid him and take another professor if you can. Does not worth the stress he is giving.
+
+Review 4:
+Course: CS157A
+Rating: 1.0
+Difficulty: 5.0
+Text: He runs your solution, if it didn't match the output then you lost all points, the actual final is 2-3x harder than the practice final (what's the point then???). Grades hw easily but grades exams harshly. Heavy accent and very poor English, curve the whole class with the highest grade, meaning if yall get a genius in the class u got no curve

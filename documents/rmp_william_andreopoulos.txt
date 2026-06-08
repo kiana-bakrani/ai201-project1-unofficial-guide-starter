@@ -1,0 +1,25 @@
+Source: https://www.ratemyprofessors.com/professor/2534380
+Source Type: Rate My Professors
+School: San Jose State University
+Department: Computer Science
+Professor: William Andreopoulos
+Relevant Courses: CS147, CS149, CS courses
+
+Content:
+Review 1:
+Course: CS149
+Rating: 2.0
+Difficulty: 4.0
+Text: Someone please teach this guy how to use a microphone. Please only take this class if you are already fluent in C.
+
+Review 2:
+Course: CS149
+Rating: 4.0
+Difficulty: 3.0
+Text: Lectures are so boring. Even though it's an in-person class, he also hosts classes on Zoom. Assignments are long but not unreasonable. Weekly zybooks worksheets are chill. TBH you can just not attend lecture, and instead study from his slides and do fine on the exams.
+
+Review 3:
+Course: CS149
+Rating: 5.0
+Difficulty: 1.0
+Text: Content is pretty useful. Lectures are on Zoom + published after. I would recommend skipping to save time as they are pretty boring, and the slides are well made and cover everything. Weekly HW is not too hard but uses Zybooks. 3 Extra credit opportunities. 2 midterms + 1 final allow 5 pg cheatsheet and wasnt too hard

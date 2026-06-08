@@ -1,0 +1,22 @@
+Source: https://www.reddit.com/r/SJSU/comments/dln6hk/cs_instructor_help/
+Source Type: Reddit Thread
+School: San Jose State University
+Topic: SJSU CS instructor advice
+Relevant Professors: Ramin Moazeni, William Andreopoulos, Tejaswini Karra
+
+Content:
+Post/Comment 1:
+Author: Original poster
+Text: A student asked for feedback about CS instructors because the spring schedule included professors who were new or had few Rate My Professors reviews. The professors mentioned were Ramin Moazeni, William Andreopoulos, and Tejaswini Karra.
+
+Post/Comment 2:
+Author: Reddit user
+Text: One commenter said they were currently taking Ramin Moazeni and described him as a good professor. They recommended him.
+
+Post/Comment 3:
+Author: Thread context
+Text: The thread shows that students often use Reddit to ask about CS instructors when official information and Rate My Professors reviews are missing or incomplete.
+
+Post/Comment 4:
+Author: Thread context
+Text: This source is useful for the RAG system because it captures exactly the kind of unofficial student knowledge the assignment focuses on: choosing professors based on student experiences rather than official course descriptions.
